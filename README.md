@@ -9,9 +9,9 @@ If you're interested in security, feel free to follow and contribute to my proje
 Thank you for visiting, I hope you find useful resources and can improve your security skills together with me!</h4>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=skylarmtp&label=Profile%20views&color=0e75b6&style=flat" alt="skylarmtp" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=skylarmtp" alt="skylarmtp" /></a> </p>
-- 👨‍💻 All of my projects are available at [https://github.com/skylarmtp](https://github.com/skylarmtp)
+- 👨‍💻 All of my projects are available at [https://github.com/skylarmtp]
 <br>
-- 👨‍💻 My youtube channel: [https://www.youtube.com/@skylarmtp](https://www.youtube.com/@skylarmtp)
+- 👨‍💻 My youtube channel: [https://www.youtube.com/@skylarmtp]
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/skylarmtp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="skylarmtp" height="30" width="40" /></a>
