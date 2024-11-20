@@ -10,6 +10,7 @@ Thank you for visiting, I hope you find useful resources and can improve your se
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=skylarmtp&label=Profile%20views&color=0e75b6&style=flat" alt="skylarmtp" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=skylarmtp" alt="skylarmtp" /></a> </p>
 - 👨‍💻 All of my projects are available at [https://github.com/skylarmtp](https://github.com/skylarmtp)
+<br>
 - 👨‍💻 My youtube channel: [https://www.youtube.com/@skylarmtp](https://www.youtube.com/@skylarmtp)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
